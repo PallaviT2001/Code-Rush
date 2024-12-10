@@ -16,7 +16,7 @@ int main()
     printf("%d\n",sizeof(double));
     printf("%d\n",sizeof(void));
 
-    printf("\n");
+    printf("\n");//to print new line
     printf("%d\n",sizeof(struct student));
 
     printf("\n");
